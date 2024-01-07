@@ -1,40 +1,40 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
-  - scalar
-  - literal
-  - expression
+  - value 🎓 known
+  - identifier 👂 heard
+  - variable 🎓 known
+  - constant 🎓 known
+  - scalar 👂 heard
+  - literal 🎓 known
+  - expression 🎓 known
   - heap
-  - function
-  - procedure
-  - method
-  - class
+  - function 🎓 known
+  - procedure 👂 heard
+  - method 🎓 known
+  - class 🎓 known
   - prototype
   - event
-  - type
-  - primitive types
-  - reference types
-  - flag
+  - type 🎓 known
+  - primitive types 🎓 known
+  - reference types 🎓 known
+  - flag 👂 heard
   - lexical scope
-  - code block
-  - conditions
-  - loops
-  - assignment
+  - code block 👂 heard
+  - conditions 🎓 known
+  - loops 🎓 known
+  - assignment 🎓 known
   - regular expression
-  - interface
+  - interface 👂 heard
   - contract
-  - module
+  - module 👂 heard
   - call stack
 - Functions
   - signature
-  - argument
-  - parameter
-  - pure function
-  - lambda expression
+  - argument 👂 heard
+  - parameter 👂 heard
+  - pure function 🎓 known
+  - lambda expression 👂 heard
   - side effects
   - closure
   - partial application
@@ -42,7 +42,7 @@
   - higher order
   - recursion
   - callback
-  - listener
+  - listener 👂 heard
   - compose
   - pipe
   - memoize
@@ -53,14 +53,14 @@
   - generator
   - coroutine
 - Data structures
-  - array
-  - structure
+  - array 👂 heard
+  - structure 👂 heard
   - record
   - enum
   - instance
-  - object
-  - class
-  - collection
+  - object 👂 heard
+  - class 🎓 known
+  - collection 👂 heard
   - set
   - hash table
   - linked list
@@ -78,17 +78,17 @@
   - serialization
   - string parsing
 - Process & style
-  - compiler
+  - compiler 🎓 known
   - transpiler
   - linter
   - polyfill
-  - debugger
-  - garbage collection
+  - debugger 👂 heard
+  - garbage collection 👂 heard
   - refactoring
   - code review
   - antipatterns
-  - paradigm
-  - algorithm
+  - paradigm 👂 heard
+  - algorithm 🎓 known
   - magic numbers
   - hardcode
   - complexity
@@ -96,11 +96,11 @@
   - spaghetti
   - silver bullet
   - not invented here
-  - dead code
+  - dead code 👂 heard
   - unreachable code
   - duplicate code
-  - exception
+  - exception 👂 heard
   - return early
   - unittest
-  - git
-  - github
+  - git 👂 heard
+  - github 👂 heard
