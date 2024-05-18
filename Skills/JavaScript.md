@@ -2,20 +2,20 @@
 
 - Language
   - `Object` 🖐️ used
-  - `Function`
-  - `Boolean`
-  - `Number`
+  - `Function` 🖐️ used
+  - `Boolean` 🖐️ used
+  - `Number` 🖐️ used
   - `BigInt` 👂 heard
-  - `String`
-  - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined` 👂 heard
+  - `String` 🖐️ used
+  - `Symbol` 🖐️ used
+  - `Infinity` 🖐️ used
+  - `NaN` 🖐️ used
+  - `undefined` 🖐️ used
   - `null` 🖐️ used
   - `this` 🖐️ used
   - `instanceof` 🖐️ used
   - `...spread` 👂 heard
-  - `...rest` 👂 heard
+  - `...rest` 🖐️ used
   - `typeof` 🖐️ used
   - Destructuring
   - Generators 👂 heard
@@ -34,30 +34,30 @@
   - `prototype`
   - Equality operators 🖐️ used
   - Logical operators 🖐️ used
-  - Logical Assignment
-  - Bitwise operators 👂 heard
+  - Logical Assignment 🖐️ used
+  - Bitwise operators 🖐️ used
   - Ternary operator 🖐️ used
   - `void` 🖐️ used
   - `yield` 🖐️ used
-  - `await` 👂 heard
+  - `await` 🖐️ used
   - Template literal
-  - Strict mode
+  - Strict mode 🖐️ used
   - Hoisting
-  - `delete`
+  - `delete` 🖐️ used
   - `in` 🖐️ used
   - `super` 👂 heard
   - `eval`
-  - `static`
-  - `Number.parseInt`
-  - `Number.parseFloat`
+  - `static` 🖐️ used
+  - `Number.parseInt` 🖐️ used
+  - `Number.parseFloat` 🖐️ used
   - Property descriptors
   - Sealing properties
   - Freezing properties
   - Computed properties
   - Instance class fields
-  - Static class fields
-  - Private class fields
-  - Private class methods
+  - Static class fields 🖐️ used
+  - Private class fields 🖐️ used
+  - Private class methods 🖐️ used
 - Statements
   - `if` 🖐️ used
   - `while` 🖐️ used
@@ -69,15 +69,15 @@
   - `throw` 🖐️ used
   - `break` 🖐️ used
   - `continue` 🖐️ used
-  - `import` 👂 heard
-  - `export` 👂 heard
+  - `import` 🖐️ used
+  - `export` 🖐️ used
   - `label`
   - `try..catch` 🖐️ used
   - `switch` 🖐️ used
   - `class` 🖐️ used
-  - `extends`
+  - `extends` 🖐️ used
   - `with`
-  - `new`
+  - `new` 🖐️ used
 - Functions
   - Arrow function 🖐️ used
   - Async function 👂 heard
@@ -92,7 +92,7 @@
 - Data structures
   - `Array` 🖐️ used
   - `Map` 🖐️ used
-  - `Set` 👂 heard
+  - `Set` 🖐️ used
   - `WeakMap`
   - `WeakSet`
   - Typed arrays
@@ -102,11 +102,11 @@
   - `Proxy`
   - `RegExp`
   - `Date` 👂 heard
-  - `Math`
+  - `Math` 🖐️ used
   - `Reflect`
-  - `Error`
+  - `Error` 🖐️ used
   - `Atomics`
-  - `JSON`
+  - `JSON` 🖐️ used
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
@@ -115,8 +115,8 @@
   - Timers
 - Infrastructure
   - V8
-  - Node.js
+  - Node.js 🖐️ used
   - npm 🖐️ used
-  - prettier
+  - prettier 🖐️ used
   - MDN
   - TC39
