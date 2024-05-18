@@ -1,25 +1,25 @@
 ## JavaScript
 
 - Language
-  - `Object` 🖐️ used
-  - `Function`
-  - `Boolean`
-  - `Number`
-  - `BigInt` 👂 heard
-  - `String`
-  - `Symbol`
-  - `Infinity`
-  - `NaN`
-  - `undefined` 👂 heard
-  - `null` 🖐️ used
-  - `this` 🖐️ used
-  - `instanceof` 🖐️ used
-  - `...spread` 👂 heard
-  - `...rest` 👂 heard
-  - `typeof` 🖐️ used
+  - `Object`: 🖐️ used
+  - `Function`: 🖐️ used
+  - `Boolean`: 🖐️ used
+  - `Number`: 🖐️ used
+  - `BigInt`: 👂 heard
+  - `String`: 🖐️ used
+  - `Symbol`: 🖐️ used
+  - `Infinity`: 🖐️ used
+  - `NaN`: 🖐️ used
+  - `undefined`: 🖐️ used
+  - `null`: 🖐️ used
+  - `this`: 🖐️ used
+  - `instanceof`: 🖐️ used
+  - `...spread`: 👂 heard
+  - `...rest`: 🖐️ used
+  - `typeof`: 🖐️ used
   - Destructuring
-  - Generators 👂 heard
-  - Iterators 🖐️ used
+  - Generators: 👂 heard
+  - Iterators: 🖐️ used
   - Async generator
   - Async iterator
   - Chaining
@@ -29,70 +29,70 @@
   - `global`
   - `globalThis`
   - `window`
-  - Getters and setters 🖐️ used
+  - Getters and setters: 🖐️ used
   - `__proto__`
   - `prototype`
-  - Equality operators 🖐️ used
-  - Logical operators 🖐️ used
-  - Logical Assignment
-  - Bitwise operators 👂 heard
-  - Ternary operator 🖐️ used
-  - `void` 🖐️ used
-  - `yield` 🖐️ used
-  - `await` 👂 heard
+  - Equality operators: 🖐️ used
+  - Logical operators: 🖐️ used
+  - Logical Assignment: 🖐️ used
+  - Bitwise operators: 🖐️ used
+  - Ternary operator: 🖐️ used
+  - `void`: 🖐️ used
+  - `yield`: 🖐️ used
+  - `await`: 🖐️ used
   - Template literal
-  - Strict mode
+  - Strict mode: 🖐️ used
   - Hoisting
-  - `delete`
-  - `in` 🖐️ used
-  - `super` 👂 heard
+  - `delete`: 🖐️ used
+  - `in`: 🖐️ used
+  - `super`: 👂 heard
   - `eval`
-  - `static`
-  - `Number.parseInt`
-  - `Number.parseFloat`
+  - `static`: 🖐️ used
+  - `Number.parseInt`: 🖐️ used
+  - `Number.parseFloat`: 🖐️ used
   - Property descriptors
   - Sealing properties
   - Freezing properties
   - Computed properties
   - Instance class fields
-  - Static class fields
-  - Private class fields
-  - Private class methods
+  - Static class fields: 🖐️ used
+  - Private class fields: 🖐️ used
+  - Private class methods: 🖐️ used
 - Statements
-  - `if` 🖐️ used
-  - `while` 🖐️ used
-  - `do..while` 🖐️ used
-  - `for` 🖐️ used
-  - `for..in` 🖐️ used
-  - `for..of` 🖐️ used
+  - `if`: 🖐️ used
+  - `while`: 🖐️ used
+  - `do..while`: 🖐️ used
+  - `for`: 🖐️ used
+  - `for..in`: 🖐️ used
+  - `for..of`: 🖐️ used
   - `for await`
-  - `throw` 🖐️ used
-  - `break` 🖐️ used
-  - `continue` 🖐️ used
-  - `import` 👂 heard
-  - `export` 👂 heard
+  - `throw`: 🖐️ used
+  - `break`: 🖐️ used
+  - `continue`: 🖐️ used
+  - `import`: 🖐️ used
+  - `export`: 🖐️ used
   - `label`
-  - `try..catch` 🖐️ used
-  - `switch` 🖐️ used
-  - `class` 🖐️ used
-  - `extends`
+  - `try..catch`: 🖐️ used
+  - `switch`: 🖐️ used
+  - `class`: 🖐️ used
+  - `extends`: 🖐️ used
   - `with`
-  - `new`
+  - `new`: 🖐️ used
 - Functions
-  - Arrow function 🖐️ used
-  - Async function 👂 heard
-  - Function declaration 🖐️ used
-  - Function expression 🖐️ used
-  - Default parameters 🖐️ used
+  - Arrow function: 🖐️ used
+  - Async function: 👂 heard
+  - Function declaration: 🖐️ used
+  - Function expression: 🖐️ used
+  - Default parameters: 🖐️ used
   - Functional object
-  - `Function.prototype.call` 👂 heard
-  - `Function.prototype.bind` 👂 heard
-  - `Function.prototype.apply` 👂 heard
-  - `return` 🖐️ used
+  - `Function.prototype.call`: 👂 heard
+  - `Function.prototype.bind`: 👂 heard
+  - `Function.prototype.apply`: 👂 heard
+  - `return`: 🖐️ used
 - Data structures
-  - `Array` 🖐️ used
-  - `Map` 🖐️ used
-  - `Set` 👂 heard
+  - `Array`: 🖐️ used
+  - `Map`: 🖐️ used
+  - `Set`: 🖐️ used
   - `WeakMap`
   - `WeakSet`
   - Typed arrays
@@ -101,12 +101,12 @@
 - Standard classes and namespaces
   - `Proxy`
   - `RegExp`
-  - `Date` 👂 heard
-  - `Math`
+  - `Date`: 👂 heard
+  - `Math`: 🖐️ used
   - `Reflect`
-  - `Error`
+  - `Error`: 🖐️ used
   - `Atomics`
-  - `JSON`
+  - `JSON`: 🖐️ used
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
@@ -115,8 +115,8 @@
   - Timers
 - Infrastructure
   - V8
-  - Node.js
-  - npm 🖐️ used
-  - prettier
+  - Node.js: 🖐️ used
+  - npm: 🖐️ used
+  - prettier: 🖐️ used
   - MDN
   - TC39
