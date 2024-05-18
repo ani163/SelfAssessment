@@ -4,16 +4,16 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm
+  - Algorithm 🎓 known
   - Syntax
   - Semantics
   - Abstraction
-  - Paradigm
+  - Paradigm 👂 heard
   - Programm
   - Programming paradigm
   - Programming language
-  - Contract
-  - Module
+  - Contract 🎓 known
+  - Module 🎓 known
   - Library
   - Package
   - Component
@@ -32,42 +32,42 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
-  - Heap
-  - Function
-  - Procedure
-  - Method
-  - Class
-  - Prototype
-  - Event
-  - Type
-  - Flag
-  - Lexical scope
-  - Code block
-  - Conditions
-  - Loops
-  - Assignment
-  - Regular expression
-  - Interface
+  - Value 🖐️ used
+  - Identifier 🖐️ used
+  - Variable 🖐️ used
+  - Constant 🖐️ used
+  - Scalar 🖐️ used
+  - Literal 🖐️ used
+  - Expression 🖐️ used
+  - Heap 🎓 known
+  - Function 🖐️ used
+  - Procedure 🖐️ used
+  - Method 🖐️ used
+  - Class 🖐️ used
+  - Prototype 🖐️ used
+  - Event 🎓 known
+  - Type 🖐️ used
+  - Flag 🖐️ used
+  - Lexical scope 🖐️ used
+  - Code block 🖐️ used
+  - Conditions 🖐️ used
+  - Loops 🖐️ used
+  - Assignment 🖐️ used
+  - Regular expression 🖐️ used
+  - Interface  🎓 known
   - Namespaces
-  - Call stack
+  - Call stack 👂 heard
   - Naming conventions
   - Coding conventions
   - Camel case
   - Snake case
   - Kebab case
   - Trailing commas
-  - Return early
+  - Return early 🖐️ used
   - Fail-fast
 - Types
-  - Primitive types
-  - Reference types
+  - Primitive types 🖐️ used
+  - Reference types 🖐️ used
   - Type systems
   - Strong typing
   - Weak typing
@@ -81,53 +81,54 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
-  - Parameter
-  - Pure function
-  - Lambda expression
-  - Side effects
+  - Signature 🖐️ used
+  - Argument 🖐️ used
+  - Parameter 🖐️ used
+  - Pure function 🖐️ used
+  - Lambda expression 🖐️ used
+  - Side effects 🎓 known
   - Closure
   - Partial application
   - Currying
-  - Higher order
-  - Recursion
+  - Higher order 🖐️ used
+  - Recursion 🖐️ used
   - Tail call optimisation
-  - Callback
-  - Listener
-  - Composition
+  - Callback 🖐️ used
+  - Listener 🖐️ used
+  - Composition 👂 heard
   - Pipe
-  - Memoize
-  - Wrapper
+  - Memoize 👂 heard
+  - Wrapper 🎓 known
   - Functor
   - Monad
   - Monoid
-  - Generator
-  - Coroutine
+  - Generator 👂 heard
+  - Coroutine 🖐️ used
 - Data structures
-  - Array
-  - Structure
-  - Record
-  - Enum
-  - Instance
-  - Object
-  - Collection
-  - Set
-  - Hash table
-  - Linked list
+  - Array 🖐️ used
+  - Structure 🖐️ used
+  - Record 🎓 known
+  - Enum 🎓 known
+  - Instance 🖐️ used
+  - Object 🖐️ used
+  - Class 🖐️ used
+  - Collection 🖐️ used
+  - Set 🖐️ used
+  - Hash table 🎓 known
+  - Linked list 🎓 known
   - Doubly list
   - Unrolled list
   - Circular list
-  - Queue
-  - Stack
+  - Queue 🎓 known
+  - Stack 🎓 known
   - Deque
-  - Tree
-  - Graph
-  - Iterator
+  - Tree 🎓 known
+  - Graph 🎓 known
+  - Iterator 🖐️ used
   - Mutable state
   - Immutable state
-  - Serialization
-  - String parsing
+  - Serialization 🎓 known
+  - String parsing 🖐️ used
   - JSON
   - JSON5
   - YAML
@@ -142,11 +143,11 @@
   - URN
   - URI
 - Process and tools
-  - Compiler
+  - Compiler 🖐️ used
   - Just-in-time compilation
   - Ahead-of-time compilation
-  - Transpiler
-  - Linter
+  - Transpiler 🖐️ used
+  - Linter 🖐️ used
   - Polyfill
   - Interpreter
   - Linker
@@ -157,33 +158,34 @@
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger 🖐️ used
   - Tracing
-  - Garbage collection
-  - Refactoring
-  - Code review
-  - Exception
-  - Unittesting
-  - git
-  - Github
+  - Garbage collection 👂 heard
+  - Refactoring 🖐️ used
+  - Code review 🖐️ used
+  - Antipatterns 🎓 known
+  - Exception 🎓 known
+  - Unittesting 👂 heard
+  - Git 🖐️ used
+  - Github 🖐️ used
   - Docker
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
   - Magic numbers
-  - Hard code
+  - Hard code 🎓 known
   - Soft code
   - Cryptic code
   - Improbability factor
-  - Accidental complexity
+  - Accidental complexity 🎓 known
   - Action at a distance
-  - Spaghetti
-  - Silver bullet
-  - Not invented here
-  - Dead code
+  - Spaghetti 🎓 known
+  - Silver bullet 🎓 known
+  - Not invented here 🎓 known
+  - Dead code 🎓 known
   - Unreachable code
-  - Duplicate code
+  - Duplicate code 🎓 known
   - Premature optimization
   - Micro-optimization
   - Nested loops
