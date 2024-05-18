@@ -1,50 +1,50 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming 🖐️ used
-  - Imperative programming 🖐️ used
-  - Structured programming  🖐️ used
-  - Non-structured programming 🎓 known
-  - Functional programming 🖐️ used
-  - Prototype-based programming 🎓 known
-  - Object-oriented programming 🖐️ used
-  - Object-based programming 🎓 known
-  - Generic programming 🎓 known
+  - Procedural programming: 🖐️ used
+  - Imperative programming: 🖐️ used
+  - Structured programming: 🖐️ used
+  - Non-structured programming: 🎓 known
+  - Functional programming: 🖐️ used
+  - Prototype-based programming: 🎓 known
+  - Object-oriented programming: 🖐️ used
+  - Object-based programming: 🎓 known
+  - Generic programming: 🎓 known
   - Concurrent computing
-  - Asyncronous programming 🎓 known
-  - Parallel programming 🎓 known
-  - Reactive programming 👂 heard
+  - Asyncronous programming: 🎓 known
+  - Parallel programming: 🎓 known
+  - Reactive programming: 👂 heard
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming 🎓 known
-  - Metaprogramming 👂 heard
+  - Multi-paradigm programming: 🎓 known
+  - Metaprogramming: 👂 heard
   - Actor model
-  - Lambda calculus 👂 heard
-  - Black box 👂 heard
-  - Information hiding 👂 heard
+  - Lambda calculus: 👂 heard
+  - Black box: 👂 heard
+  - Information hiding: 👂 heard
   - Aspect-oriented programming
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor 🖐️ used
-  - Operator `new` 🖐️ used
-  - Static method 🖐️ used
-  - Method 🖐️ used
-  - Async method 🎓 known
-  - Getters, Setters 🖐️ used
-  - Public fields 🖐️ used
-  - Private fields 🖐️ used
-  - Field declarations 🖐️ used
-  - Inheritance 🖐️ used
-  - Parent class 🖐️ used
-  - Polymorphism 🎓 known
-  - Abstract class 🎓 known
-  - Interface 🎓 known
-  - Encapsulation 🎓 known
-  - Hidden class 🎓 known
-  - Object form 🎓 known
-  - Instance 🖐️ used
+  - Constructor: 🖐️ used
+  - Operator `new`: 🖐️ used
+  - Static method: 🖐️ used
+  - Method: 🖐️ used
+  - Async method: 🎓 known
+  - Getters, Setters: 🖐️ used
+  - Public fields: 🖐️ used
+  - Private fields: 🖐️ used
+  - Field declarations: 🖐️ used
+  - Inheritance: 🖐️ used
+  - Parent class: 🖐️ used
+  - Polymorphism: 🎓 known
+  - Abstract class: 🎓 known
+  - Interface: 🎓 known
+  - Encapsulation: 🎓 known
+  - Hidden class: 🎓 known
+  - Object form: 🎓 known
+  - Instance: 🖐️ used
   - Introspection
   - Reflection
   - The diamond problem
